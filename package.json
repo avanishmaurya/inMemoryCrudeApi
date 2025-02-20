@@ -1,0 +1,15 @@
+{
+  "name": "crude-api",
+  "version": "1.0.0",
+  "description": "crud api', using the in memory database ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "machine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
