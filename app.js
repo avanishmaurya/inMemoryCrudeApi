@@ -6,7 +6,7 @@ const morgan = require('morgan')
 const storeRoutes = require('./routes/storeRoutes');
 
 const app = express();
-const PORT = 3000;
+const PORT = 7000;
 
 app.use(morgan('dev'))
 app.use(express.json());
